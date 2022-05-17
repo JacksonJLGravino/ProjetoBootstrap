@@ -1,0 +1,60 @@
+section.bg-top {
+  width: 100%;
+  min-height: 500px;
+  background-image: url(images/bg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.texto-bg {
+  color: white;
+  padding-top: 40px;
+}
+
+.chamada {
+  background: #0d6efd;
+  padding: 8px 0;
+  color: white;
+}
+
+.sobre {
+  padding: 40px 0;
+  background: #6c757d;
+  color: white;
+}
+
+.custom-title div {
+  background: #0d6efd;
+  height: 4px;
+  width: 140px;
+}
+
+.diferenciais {
+  padding: 40px 0;
+}
+
+.col-md-4 h2 {
+  padding: 10px;
+  border-bottom: 1px dotted black;
+}
+
+.convite {
+  color: white;
+  padding: 40px 0;
+  background: #0d6efd;
+}
+
+.contato {
+  padding: 40px 0;
+}
+
+footer {
+  color: white;
+  padding: 40px 0;
+}
+
+footer ul {
+  list-style-type: none;
+  list-style-position: inside;
+}
