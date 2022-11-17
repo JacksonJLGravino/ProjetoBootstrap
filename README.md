@@ -2,7 +2,7 @@
 
 ## Sobre
 
-<p>Esse projeto foi feito com o Bootstrap para aprender a usar o framework.</p>
+<p>Esse projeto foi feito com o Bootstrap para praticar e aprender a usar o framework.</p>
 
 ## Características
 
